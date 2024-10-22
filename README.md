@@ -91,16 +91,6 @@ Open your browser and visit http://localhost:3000/ to see the Spotify Clone in a
 
 ---
 
-## Contributing
-
-I welcome contributions to the Spotify Clone project. If you would like to contribute, please fork the repository and submit a pull request.
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-`Fork the repository`
-
-Create a new branch: `git checkout -b my-branch-name`
-
 Make your changes and commit them: `git commit -m 'Add some feature'`
 
 Push to the original branch: `git push origin my-branch-name`
