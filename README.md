@@ -91,8 +91,4 @@ Open your browser and visit http://localhost:3000/ to see the Spotify Clone in a
 
 ---
 
-Make your changes and commit them: `git commit -m 'Add some feature'`
 
-Push to the original branch: `git push origin my-branch-name`
-
-`Create a pull request` detailing your changes
